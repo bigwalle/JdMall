@@ -5,6 +5,6 @@
 # 访问ip:端口
 # 访问ip：端口/web/preview.html 手机端下载weexplaygroud app 并扫码；
 #演示图如下
-![启动页面](img_url) 
-![主页面](img_url) 
-![二维码扫码页面](img_url) 
+![启动页面](https://github.com/welcome112s/JdMall/blob/master/Screenshots/1.png) 
+![主页面](https://github.com/welcome112s/JdMall/blob/master/Screenshots/2.png) 
+![二维码扫码页面](https://github.com/welcome112s/JdMall/blob/master/Screenshots/3.png) 
